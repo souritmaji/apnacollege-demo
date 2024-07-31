@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is a GitHub Repository
+This is a GitHub Repository.
+Author - Sourit Maji
