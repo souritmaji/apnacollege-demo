@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is a GitHub Repository.
-Author - Sourit Maji
+Author - Sourit (Deloitte)
